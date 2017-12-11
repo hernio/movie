@@ -32,7 +32,7 @@
 		displaytitle: true,
 		flashplayer: "https://rawgit.com/hernio/player/master/jwplayer.flash.swf",
 		width: "100%",
-		height: "100%",
+		height: "520px",
 		aspectratio: "16:9",
 		fullscreen: "true",
 		primary: 'html5',
@@ -80,6 +80,7 @@
 	playerInstance.on('ready',function() {
 		jwLogoBar.addLogo(playerInstance);
 	});
+</script>
 
 </body>
 </html>
