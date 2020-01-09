@@ -1,24 +1,24 @@
 [{
 	"a": "RCTI",
-	"b": "https://www.metube.id/embed/1/?type=live&autoplay=true"
+	"b": "http://id6.indostreamingtv.com/playerrcti.html"
 }, {
 	"a": "MNCTV",
 	"b": "http://id6.indostreamingtv.com/playermnctv.html"
 }, {
 	"a": "Trans TV",
-	"b": "https://www.metube.id/embed/178/?type=live&autoplay=true"
+	"b": "http://id2.indostreamingtv.com/playertranstv.html"
 }, {
 	"a": "Trans7",
-	"b": "https://www.metube.id/embed/183/?type=live&autoplay=true"
+	"b": "http://id2.indostreamingtv.com/playertrans7.html"
 }, {
 	"a": "GlobalTV",
-	"b": "https://www.metube.id/embed/2/?type=live&autoplay=true"
+	"b": "http://id6.indostreamingtv.com/playergtv.html"
 }, {
 	"a": "KompasTV",
 	"b": "https://www.metube.id/embed/248/?type=live&autoplay=true"
 }, {
 	"a": "ANTV",
-	"b": "https://www.metube.id/embed/206/?type=live&autoplay=true"
+	"b": "http://id2.indostreamingtv.com/playerantv.html"
 },{
 	"a": "TV ONE",
 	"b": "https://www.metube.id/embed/219?type=live&autoplay=true"
@@ -37,4 +37,8 @@
 },{
 	"a": "SCTV",
 	"b": "http://id1.indostreamingtv.com/playersctv.html"
+},{
+	"a": "NETV",
+	"b": "http://id2.indostreamingtv.com/playernettv.html"
 }]
+
