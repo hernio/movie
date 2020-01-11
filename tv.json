@@ -1,19 +1,20 @@
-[{
+[
+	{
 	"a": "ANTV",
 	"b": "http://id2.indostreamingtv.com/playerantv.html"
-}, {
+},{
 	"a": "GlobalTV",
 	"b": "http://id6.indostreamingtv.com/playergtv.html"
 },{
 	"a": "RCTI",
 	"b": "http://id6.indostreamingtv.com/playerrcti.html"
-}, {
+},{
 	"a": "MNCTV",
 	"b": "http://id6.indostreamingtv.com/playermnctv.html"
-}, {
+},{
 	"a": "Trans TV",
 	"b": "http://id2.indostreamingtv.com/playertranstv.html"
-}, {
+},{
 	"a": "Trans7",
 	"b": "http://id2.indostreamingtv.com/playertrans7.html"
 },{
@@ -34,5 +35,6 @@
 },{
 	"a": "IDX",
 	"b": "https://www.metube.id/embed/7?type=live&autoplay=true"
-}]
+}
+]
 
