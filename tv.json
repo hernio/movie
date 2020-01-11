@@ -1,45 +1,7 @@
-[{
-	"a": "RCTI",
-	"b": "http://id6.indostreamingtv.com/playerrcti.html"
-}, {
-	"a": "MNCTV",
-	"b": "http://id6.indostreamingtv.com/playermnctv.html"
-}, {
-	"a": "Trans TV",
-	"b": "http://id2.indostreamingtv.com/playertranstv.html"
-}, {
-	"a": "Trans7",
-	"b": "http://id2.indostreamingtv.com/playertrans7.html"
-}, {
-	"a": "GlobalTV",
-	"b": "http://id6.indostreamingtv.com/playergtv.html"
-}, {
-	"a": "KompasTV",
-	"b": "https://www.metube.id/embed/248/?type=live&autoplay=true"
-}, {
-	"a": "ANTV",
-	"b": "http://id2.indostreamingtv.com/playerantv.html"
-},{
-	"a": "TV ONE",
-	"b": "http://www.itvonline.id/playertvone.php"
-},{
-	"a": "MetroTV",
-	"b": "http://www.itvonline.id/playermetrotv.php"
-},{
-	"a": "JTV",
+[
+	{
+	"a": "Launching Soon...",
 	"c": "https://www.metube.id/embed/256?type=live&autoplay=true",
-	"b": "https://cdn.statically.io/gh/hernio/movie/6d9ac033/main.html"
-},{
-	"a": "JAKTV",
-	"b": "https://www.metube.id/embed/235?type=live&autoplay=true"
-},{
-	"a": "IDX",
-	"b": "https://www.metube.id/embed/7?type=live&autoplay=true"
-},{
-	"a": "SCTV",
-	"b": "http://id1.indostreamingtv.com/playersctv.html"
-},{
-	"a": "NETTV",
-	"b": "http://id2.indostreamingtv.com/playernettv.html"
-}]
-
+	"b": "index.html"
+}
+]
