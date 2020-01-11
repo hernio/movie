@@ -9,5 +9,9 @@
 	"a": "Launching Soon...",
 	"c": "https://www.metube.id/embed/256?type=live&autoplay=true",
 	"b": "index.html"
+},{
+	"a": "TEST",
+	"c": "<img src='http://cdn-k.000webhostapp.com/tv/img/icon.png'>",
+	"b": "index.html"
 }
 ]
