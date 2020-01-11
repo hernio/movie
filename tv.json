@@ -1,5 +1,11 @@
 [
-	{
+{
+	"a": "ANTV",
+	"b": "http://id2.indostreamingtv.com/playerantv.html"
+}, {
+	"a": "GlobalTV",
+	"b": "http://id6.indostreamingtv.com/playergtv.html"
+},{
 	"a": "Launching Soon...",
 	"c": "https://www.metube.id/embed/256?type=live&autoplay=true",
 	"b": "index.html"
