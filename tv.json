@@ -1,40 +1,40 @@
 [
 	{
 	"a": "ANTV",
-	"b": "//id2.indostreamingtv.com/playerantv.html"
+	"b": "http:////id2.indostreamingtv.com/playerantv.html"
 },{
 	"a": "GlobalTV",
-	"b": "//id6.indostreamingtv.com/playergtv.html"
+	"b": "http:////id6.indostreamingtv.com/playergtv.html"
 },{
 	"a": "RCTI",
-	"b": "//id6.indostreamingtv.com/playerrcti.html"
+	"b": "http:////id6.indostreamingtv.com/playerrcti.html"
 },{
 	"a": "MNCTV",
-	"b": "//id6.indostreamingtv.com/playermnctv.html"
+	"b": "http:////id6.indostreamingtv.com/playermnctv.html"
 },{
 	"a": "Trans TV",
-	"b": "//id2.indostreamingtv.com/playertranstv.html"
+	"b": "http:////id2.indostreamingtv.com/playertranstv.html"
 },{
 	"a": "Trans7",
-	"b": "//id2.indostreamingtv.com/playertrans7.html"
+	"b": "http:////id2.indostreamingtv.com/playertrans7.html"
 },{
 	"a": "SCTV",
-	"b": "//id1.indostreamingtv.com/playersctv.html"
+	"b": "http:////id1.indostreamingtv.com/playersctv.html"
 },{
 	"a": "KompasTV",
-	"b": "//www.metube.id/embed/248/?type=live&autoplay=true"
+	"b": "http:////www.metube.id/embed/248/?type=live&autoplay=true"
 }, {
 	"a": "TV ONE",
-	"b": "//www.itvonline.id/playertvone.php"
+	"b": "http:////www.itvonline.id/playertvone.php"
 },{
 	"a": "MetroTV",
-	"b": "//www.itvonline.id/playermetrotv.php"
+	"b": "http:////www.itvonline.id/playermetrotv.php"
 },{
 	"a": "JAKTV",
-	"b": "//www.metube.id/embed/235?type=live&autoplay=true"
+	"b": "http:////www.metube.id/embed/235?type=live&autoplay=true"
 },{
 	"a": "IDX",
-	"b": "//www.metube.id/embed/7?type=live&autoplay=true"
+	"b": "http://www.metube.id/embed/7?type=live&autoplay=true"
 }
 ]
 
