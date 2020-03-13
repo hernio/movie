@@ -25,10 +25,10 @@
 	"b": "http://www.metube.id/embed/248/?type=live&autoplay=true"
 }, {
 	"a": "TV ONE",
-	"b": "http://www.itvonline.id/playertvone.php"
+	"b": "http://id1.indostreamingtv.com/playertvone.html"
 },{
 	"a": "MetroTV",
-	"b": "http://www.itvonline.id/playermetrotv.php"
+	"b": "https://cdn-tv.000webhostapp.com/tv/metro.php"
 },{
 	"a": "JAKTV",
 	"b": "http://www.metube.id/embed/235?type=live&autoplay=true"
