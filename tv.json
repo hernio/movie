@@ -1,7 +1,7 @@
 [
 	{
 	"a": "ANTV",
-	"b": "http://id2.indostreamingtv.com/playerantv.html"
+	"b": "http://id1.indostreamingtv.com/playerantv.html"
 },{
 	"a": "GlobalTV",
 	"b": "http://id6.indostreamingtv.com/playergtv.html"
@@ -20,6 +20,9 @@
 },{
 	"a": "SCTV",
 	"b": "http://id1.indostreamingtv.com/playersctv.html"
+},{	
+	"a": "Indosiar",
+	"b": "http://id1.indostreamingtv.com/playerindosiar.html"
 },{
 	"a": "KompasTV",
 	"b": "http://www.metube.id/embed/248/?type=live&autoplay=true"
