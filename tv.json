@@ -6,11 +6,32 @@
 	"a": "GlobalTV",
 	"b": "http://id6.indostreamingtv.com/playergtv.html"
 },{
-	"a": "RCTI",
-	"b": "http://id6.indostreamingtv.com/playerrcti.html"
+	"a": "IDX",
+	"b": "http://www.metube.id/embed/7?type=live&autoplay=true"
+},{	
+	"a": "Indosiar",
+	"b": "http://id1.indostreamingtv.com/playerindosiar.html"
+},{
+	"a": "JAKTV",
+	"b": "http://www.metube.id/embed/235?type=live&autoplay=true"
+},{
+	"a": "KompasTV",
+	"b": "https://www.youtube.com/embed/gIB2egm7tL8"
+},{
+	"a": "MetroTV",
+	"b": "http://tvid.c1.biz/tv/metro.php"
 },{
 	"a": "MNCTV",
 	"b": "http://id6.indostreamingtv.com/playermnctv.html"
+},{
+	"a": "NetTV",
+	"b": "https://www.youtube.com/embed/JKQzLbfh7SM"
+},{
+	"a": "RCTI",
+	"b": "http://id6.indostreamingtv.com/playerrcti.html"
+},{
+	"a": "SCTV",
+	"b": "http://id1.indostreamingtv.com/playersctv.html"
 },{
 	"a": "Trans TV",
 	"b": "http://id1.indostreamingtv.com/playertranstv.html"
@@ -18,29 +39,8 @@
 	"a": "Trans7",
 	"b": "http://id1.indostreamingtv.com/playertrans7.html"
 },{
-	"a": "SCTV",
-	"b": "http://id1.indostreamingtv.com/playersctv.html"
-},{	
-	"a": "Indosiar",
-	"b": "http://id1.indostreamingtv.com/playerindosiar.html"
-},{
-	"a": "KompasTV",
-	"b": "http://www.metube.id/embed/248/?type=live&autoplay=true"
-}, {
 	"a": "TV ONE",
 	"b": "http://id1.indostreamingtv.com/playertvone.html"
-},{
-	"a": "MetroTV",
-	"b": "http://tvid.c1.biz/tv/metro.php"
-},{
-	"a": "NetTV",
-	"b": "https://www.youtube.com/embed/JKQzLbfh7SM"
-},{
-	"a": "JAKTV",
-	"b": "http://www.metube.id/embed/235?type=live&autoplay=true"
-},{
-	"a": "IDX",
-	"b": "http://www.metube.id/embed/7?type=live&autoplay=true"
 }
 ]
 
